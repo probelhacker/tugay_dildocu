@@ -1,0 +1,108 @@
+URL: file:///C:/Users/tugay/AppData/Local/Temp/driveridentifier/driver.html
+TITLE: Driver Identifier
+TIME: 24.01.2024 22:28:32
+
+URL: https://www.driveridentifier.com/scan/desktop.php?scanid=3329BC403E98418586A97184566A3CBD
+TITLE: www.driveridentifier.com
+TIME: 24.01.2024 22:28:34
+
+URL: chrome-extension://ehlmjgafbankbokkgbjnalkgahahjgbd/index.html
+TITLE: Opera One
+TIME: 04.02.2024 09:29:42
+
+URL: https://youtu.be/IeDbkrzxSZY?si=GrNi0rNrdSKvzGFN
+TITLE: Yine Beni Sev - YouTube
+TIME: 01.02.2024 22:43:18
+
+URL: https://www.youtube.com/watch?si=GrNi0rNrdSKvzGFN&v=IeDbkrzxSZY&feature=youtu.be
+TITLE: Yine Beni Sev - YouTube
+TIME: 03.02.2024 23:39:18
+
+URL: https://www.google.com/search?client=opera&q=youtube&sourceid=opera&ie=UTF-8&oe=UTF-8
+TITLE: youtube - Google'da Ara
+TIME: 03.02.2024 00:34:05
+
+URL: https://www.youtube.com/?hl=tr&gl=TR/
+TITLE: YouTube
+TIME: 03.02.2024 00:34:07
+
+URL: https://www.youtube.com/
+TITLE: YouTube
+TIME: 03.02.2024 00:42:16
+
+URL: https://www.youtube.com/results?search_query=sen+miydin+sevgilimi+%C3%A7alan
+TITLE: sen miydin sevgilimi çalan - YouTube
+TIME: 03.02.2024 00:34:31
+
+URL: https://www.youtube.com/watch?v=BUdXlX3dLcw
+TITLE: Nejat Alp - Arkadaşım / Sen Miydin Sevgilimi Çalan [ © Official Video ] ✔️ - YouTube
+TIME: 03.02.2024 00:34:36
+
+URL: https://www.youtube.com/watch?v=mwZCiMb_DuU
+TITLE: Nejat Alp - Berlin Konseri Full Albüm [Official Audio] ✔️ - YouTube
+TIME: 03.02.2024 00:41:20
+
+URL: https://www.youtube.com/watch?v=AUbMgJkGWx4
+TITLE: Sibel Can & Ata Demirer - Şaka Yaptım - YouTube
+TIME: 03.02.2024 00:42:40
+
+URL: https://www.youtube.com/watch?v=DrxHrnFGv1o
+TITLE: Melek Mosso - Sabahçı Kahvesi (Harbiye Konseri) - YouTube
+TIME: 03.02.2024 00:43:24
+
+URL: https://www.youtube.com/results?search_query=r%C4%B1za+dalga
+TITLE: rıza dalga - YouTube
+TIME: 03.02.2024 00:53:34
+
+URL: https://www.youtube.com/watch?v=T5icB-def9Y
+TITLE: rıza dalga gidemedim de o yaylanın yolundan - YouTube
+TIME: 03.02.2024 00:43:52
+
+URL: https://www.youtube.com/watch?v=ILkerkLJPzs
+TITLE: TOKAT NİKSAR KEMANCI HÜSEYİN İLE KEMANCI MUSTAFA ATIŞMALI TÜRKÜLER - YouTube
+TIME: 03.02.2024 00:45:18
+
+URL: https://www.youtube.com/watch?v=v2WigJWCvIM
+TITLE: ( TOKAT REŞADİYE HAVALARI KEMANCI HÜSEYİN İLE NİYAZİ TUTTU İKİLİSİ - YouTube
+TIME: 03.02.2024 00:53:31
+
+URL: https://www.youtube.com/results?search_query=gaddar+3+b%C3%B6l%C3%BCm
+TITLE: gaddar 3 bölüm - YouTube
+TIME: 03.02.2024 00:54:54
+
+URL: https://www.youtube.com/watch?v=JDUB1NyTTBU&pp=ygUQZ2FkZGFyIDMgYsO2bMO8bQ%3D%3D
+TITLE: gaddar 3 bölüm - YouTube
+TIME: 03.02.2024 00:54:40
+
+URL: https://www.youtube.com/watch?v=JDUB1NyTTBU
+TITLE: Gaddar 3. Bölüm - YouTube
+TIME: 03.02.2024 00:54:57
+
+URL: https://www.youtube.com/watch?v=v0InWaT3HTY
+TITLE: Kimsesiz Yaşar'ın Unutulmaz Sahneleri - Eşkıya Dünyaya Hükümdar Olmaz - YouTube
+TIME: 03.02.2024 00:54:41
+
+URL: https://www.google.com/search?client=opera&q=gaddar+3.+b%C3%B6l%C3%BCm&sourceid=opera&ie=UTF-8&oe=UTF-8
+TITLE: gaddar 3. bölüm - Google'da Ara
+TIME: 03.02.2024 00:55:45
+
+URL: https://www.youtube.com/watch?v=NYZhtAvPQLQ
+TITLE: Gaddar 3. Bölüm - YouTube
+TIME: 03.02.2024 00:56:00
+
+URL: https://www.google.com/search?client=opera&q=gaddar+3.b%C3%B6l%C3%BCm+izle&sourceid=opera&ie=UTF-8&oe=UTF-8
+TITLE: gaddar 3.bölüm izle - Google'da Ara
+TIME: 03.02.2024 00:56:26
+
+URL: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiElN_30o2EAxXVQfEDHYOxC_0QFnoECAoQAQ&url=https%3A%2F%2Fwww.fox.com.tr%2FGaddar%2Fizle&usg=AOvVaw1HoVaXOyA8MfA5e1AXet9f&opi=89978449
+TITLE: FOX | Dizi İzle - Gaddar
+TIME: 03.02.2024 00:56:28
+
+URL: https://www.fox.com.tr/Gaddar/izle
+TITLE: FOX | Dizi İzle - Gaddar
+TIME: 03.02.2024 00:56:28
+
+URL: https://www.fox.com.tr/Gaddar/bolumler
+TITLE: Gaddar Dizisi - Bölümleri | FOX
+TIME: 03.02.2024 00:56:32
+
